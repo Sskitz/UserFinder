@@ -8,7 +8,7 @@ This is useful if you are running an investigation to determine the usage of the
 ## Installing (Kali Linux/Termux):
 
 ```
-Git clone https://github.com/skitz5674/UserFinder
+Git clone https://github.com/Sskitz/UserFinder
 
 cd UserFinder
 
